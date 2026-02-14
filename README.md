@@ -7,7 +7,7 @@
 
 **Python para Dados** - O curso foi criado especialmente para quem deseja aprender a programar e analisar dados de forma eficiente, ensinando todos os conceitos de Python e análise de dados do zero absoluto. Utilizando dados reais do Portal da Transparência do Brasil, você vai aprender a organizar, interpretar e visualizar informações com Python e Pandas.
 
-Aprendi e conclui ([certificado]()) que **dominar manipulação de dados com Python é essencial para qualquer profissional que queira extrair inteligência de informações**. O curso ofereceu uma abordagem prática e fundamentada que partiu dos conceitos básicos até análises avançadas.
+Aprendi e conclui ([certificado](https://github.com/tiagodalmeida87/asimov-python-for-data/blob/main/Graphic/img/Certificado_Tiago_Asimov.pdf)) que **dominar manipulação de dados com Python é essencial para qualquer profissional que queira extrair inteligência de informações**. O curso ofereceu uma abordagem prática e fundamentada que partiu dos conceitos básicos até análises avançadas.
 
 #### Destaco especialmente:
 
@@ -23,12 +23,12 @@ Complementando essa base técnica, o curso também consolidou competências em:
 
 ### TECNOLOGIAS 🖥️
 
-#### Python  
+##### Python  
 - Pandas
 - Matplolib 
 
-#### Google Colab
-#### Google Drive
+##### Google Colab
+##### Google Drive
 
 
 ### AGRADECIMENTOS
