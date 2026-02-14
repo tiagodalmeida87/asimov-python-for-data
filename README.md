@@ -1,13 +1,13 @@
 ## 🐍 Python para Dados: do Zero à Análise Completa
 
-![grphic_analytics](https://github.com/tiagodalmeida87/nlw1-Ecoleta/blob/main/nlw/public/assets/img-public/front_ecoleta.jpg?raw=true)
+![grphic_analytics](https://github.com/tiagodalmeida87/asimov-python-for-data/blob/main/Graphic/graphic_dashboard.png)
 ###### grphic-dash – python for data
 
 ### O Curso
 
 **Python para Dados** - O curso foi criado especialmente para quem deseja aprender a programar e analisar dados de forma eficiente, ensinando todos os conceitos de Python e análise de dados do zero absoluto. Utilizando dados reais do Portal da Transparência do Brasil, você vai aprender a organizar, interpretar e visualizar informações com Python e Pandas.
 
-Aprendi que **dominar manipulação de dados com Python é essencial para qualquer profissional que queira extrair inteligência de informações**. O curso ofereceu uma abordagem prática e fundamentada que partiu dos conceitos básicos até análises avançadas.
+Aprendi e conclui ([certificado]()) que **dominar manipulação de dados com Python é essencial para qualquer profissional que queira extrair inteligência de informações**. O curso ofereceu uma abordagem prática e fundamentada que partiu dos conceitos básicos até análises avançadas.
 
 #### Destaco especialmente:
 
