@@ -3,7 +3,7 @@
 ![grphic_analytics](https://github.com/tiagodalmeida87/asimov-python-for-data/blob/main/Graphic/graphic_dashboard.png)
 ###### grphic-dash – python for data
 
-### O Curso
+### O Curso 📖
 
 **Python para Dados** - O curso foi criado especialmente para quem deseja aprender a programar e analisar dados de forma eficiente, ensinando todos os conceitos de Python e análise de dados do zero absoluto. Utilizando dados reais do Portal da Transparência do Brasil, você vai aprender a organizar, interpretar e visualizar informações com Python e Pandas.
 
@@ -31,7 +31,7 @@ Complementando essa base técnica, o curso também consolidou competências em:
 ##### Google Drive
 
 
-### AGRADECIMENTOS
+### AGRADECIMENTOS 🙏🏼
 **Python para dados: do zero à análise completa** é um curso gratuito desenvolvido e oferecida pela [Asimov Academy](https://hub.asimov.academy/curso/python-para-dados/), através do instrutor [Juliano Faccioni](https://github.com/jfaccioni).
 
 Feito por [Tiago Almeida](https://github.com/tiagodalmeida87) 🧑‍💻
